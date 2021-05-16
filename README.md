@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matejcho
 - 👀 I’m interested in web and mobile app development, also deep learning.
 - 🌱 I’m currently learning Flutter, Python and React
-- 📫 How to reach me, matej.gjozinski@gmail.com
+- 📫 You can reach me via this e-mail, matej.gjozinski@gmail.com
 
 <!---
 matejcho/matejcho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
