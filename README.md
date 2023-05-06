@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @matejcho and I am a junior Full-Stack Web Developer.
-- 👀 I’m interested in web and mobile app development, also deep learning.
-- 🌱 I’m currently learning Python, React and Angular
+- 👋 Hi, I’m @matejcho and I am a Software Engineer.
 - 📫 You can reach me via this e-mail, matej.gjozinski@gmail.com
 
 <!---
